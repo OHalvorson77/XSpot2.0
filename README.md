@@ -1,3 +1,5 @@
+*Important to note is that we did not want to share most of our app publicly thus why xSpot folder doesn't open, a demo video is provided.
+
 📍 XSpot – The Social App That Gets You Off Your Phone
 “We envision a world where people spend less time online and more time physically together.”
 
